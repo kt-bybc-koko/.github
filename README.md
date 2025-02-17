@@ -1,1 +1,4 @@
-# .github
+# KT BYBC KOKO
+
+init
+
