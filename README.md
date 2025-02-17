@@ -1,4 +1,0 @@
-# KT BYBC KOKO
-
-init
-
