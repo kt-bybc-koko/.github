@@ -2,5 +2,5 @@
 
 OneKey, OnePass!
 
-![](./Intro.gif)
+![](./welcome.gif)
 
